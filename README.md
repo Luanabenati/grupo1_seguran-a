@@ -81,3 +81,17 @@
     📌 <strong>Documentação do projeto</strong> estruturada nas <strong>normas ABNT</strong>, garantindo <strong>organização</strong> e <strong>padronização do conteúdo</strong>.
   </p>
 </div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/Luanabenati/grupo1_seguran-a/blob/main/05_Relat%C3%B3rios_ABNT.pdf">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=🗒️+05+-+Relat%C3%B3rios+ABNT" />
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    📌 <strong>Relatórios individuais</strong> de cada participante, elaborados e formatados conforme as <strong>normas ABNT</strong>, garantindo <strong>organização</strong>, <strong>padronização</strong> e <strong>clareza na documentação do projeto</strong>.
+  </p>
+</div>
