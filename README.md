@@ -36,8 +36,7 @@
 
 <div align="center">
   <p>
-    🧠 Exemplo aaaaaaaaaaaaaaaaa.
-  </p>
+
 </div>
 
 ---
